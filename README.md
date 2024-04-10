@@ -6,7 +6,7 @@ Push Swap is an algorithmic project within the study program at School 42 (UNIT 
 Goal: Sort a set of integers using two stacks (named ‘a’ and ‘b’) and a predefined set of instructions.
 ### Instructions:
 
-« sa »: Swap the first 2 elements at the top of stack ‘a’.
+«sa»: Swap the first 2 elements at the top of stack ‘a’.
 « sb »: Swap the first 2 elements at the top of stack ‘b’.
 « ss »: Perform sa and sb simultaneously.
 « pa »: Push the first element from stack ‘b’ to stack ‘a’.
