@@ -6,17 +6,17 @@ Push Swap is an algorithmic project within the study program at School 42 (UNIT 
 Goal: Sort a set of integers using two stacks (named ‘a’ and ‘b’) and a predefined set of instructions.
 ### Instructions:
 
-**sa** : Swap the first 2 elements at the top of stack ‘a’.
-**sb** : Swap the first 2 elements at the top of stack ‘b’.
-**ss** : Perform sa and sb simultaneously.
-**pa** : Push the first element from stack ‘b’ to stack ‘a’.
-**pb** : Push the first element from stack ‘a’ to stack ‘b’.
-**ra** : Rotate all elements of stack ‘a’ (shift up by 1).
-**rb** : Rotate all elements of stack ‘b’ (shift up by 1).
-**rr** : Perform ra and rb simultaneously.
-**rra**: Reverse rotate stack ‘a’ (shift down by 1).
-**rrb**: Reverse rotate stack ‘b’ (shift down by 1).
-**rrr**: Perform rra and rrb simultaneously.
+**sa** : Swap the first 2 elements at the top of stack ‘a’.\
+**sb** : Swap the first 2 elements at the top of stack ‘b’.\
+**ss** : Perform sa and sb simultaneously.\
+**pa** : Push the first element from stack ‘b’ to stack ‘a’.\
+**pb** : Push the first element from stack ‘a’ to stack ‘b’.\
+**ra** : Rotate all elements of stack ‘a’ (shift up by 1).\
+**rb** : Rotate all elements of stack ‘b’ (shift up by 1).\
+**rr** : Perform ra and rb simultaneously.\
+**rra**: Reverse rotate stack ‘a’ (shift down by 1).\
+**rrb**: Reverse rotate stack ‘b’ (shift down by 1).\
+**rrr**: Perform rra and rrb simultaneously.\
 
 ### Installation
 #### Clone the repository:
