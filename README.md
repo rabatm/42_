@@ -34,4 +34,5 @@ This project was created by rabatm.
 
 For more details, check out the GitHub repository.
 
-Please note that all functions are created in accordance with the Norm – a set of rules governing code formatting at School 42. Happy sorting! 🚀
+Please note that all functions are created in accordance with the Norm – a set of rules governing code formatting at School 42.\
+Happy sorting! 🚀
