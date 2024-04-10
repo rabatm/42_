@@ -30,7 +30,7 @@ make
 ```
 
 ## License
-Minishell is licensed under MIT License. See LICENSE for full details.
+42_push_swap is licensed under MIT License. See LICENSE for full details.
 
 ## Authors
 rabatm - https://github.com/rabatm
